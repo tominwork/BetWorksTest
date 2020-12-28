@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "14CF9F4F-7C3E-4AB6-86A8-88DDE2957972"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8E320D1-38D5-4C84-B914-C69C9EFA3DF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BetWorksTest/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "login(withUserName:andPassword:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8E320D1-38D5-4C84-B914-C69C9EFA3DF0 - 3c399419ffd68b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BetWorksTest.LoginViewModel.login(withUserName: Swift.String, andPassword: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "BetWorksTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thomas/PROJECTS/BetWorks/BetWorksTest/BetWorksTest/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "F8E320D1-38D5-4C84-B914-C69C9EFA3DF0 - 4f451585dc1f59b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BetWorksTestTests.LoginViewModel.login(withUserName: Swift.String, andPassword: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "BetWorksTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thomas/PROJECTS/BetWorks/BetWorksTest/BetWorksTest/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "289">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
